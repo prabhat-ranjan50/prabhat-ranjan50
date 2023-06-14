@@ -5,7 +5,7 @@
 <!-- - 📫 How to reach me ... -->
 
  
- <h2 align="left">Hi 👋! My name is Prabhat Ranjan. <br> 👀 I'm a Machine Learning Enthusiast.<br> 🌱 Final Year Student at NIT Patna</h2>
+ <h2 align="left">Hi👋! My name is Prabhat Ranjan. <br> 👀 I'm a Machine Learning Enthusiast.<br> 🌱 Final Year Student at NIT Patna</h2>
 
 ###
 
