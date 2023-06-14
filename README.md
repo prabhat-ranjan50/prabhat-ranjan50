@@ -7,8 +7,6 @@
 <!---
 prabhat-ranjan50/prabhat-ranjan50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
- -->
  
  
  <h2 align="left">Hi 👋! My name is Prabhat Ranjan. <br> 👀 I'm a Machine Learning Enthusiast.<br> 🌱 Final Year Student at NIT Patna</h2>
