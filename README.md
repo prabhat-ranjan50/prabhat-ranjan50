@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prabhat Ranjan
-- 👀 I’m interested in Web Development and Coding.
+- 👀 I’m interested in Machine Learning and Coding.
 - 🌱 I’m currently learning DSA.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
