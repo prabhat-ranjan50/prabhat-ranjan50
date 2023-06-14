@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
  -->
  
  
- <h2 align="left">Hi 👋! My name is Prabhat Ranjan <br> 👀 I'm Machine Learning Enthusiast.<br> 🌱 Final Year Student at NIT Patna</h2>
+ <h2 align="left">Hi 👋! My name is Prabhat Ranjan. <br> 👀 I'm Machine Learning Enthusiast.<br> 🌱 Final Year Student at NIT Patna</h2>
 
 ###
 
